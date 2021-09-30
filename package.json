@@ -23,7 +23,7 @@
   },
   "dependencies": {
     "@handsontable/vue": "^4.1.1",
-    "handsontable": "^7.3.0",
+    "handsontable": "^10.0.0",
     "vue": "^2.6.11"
   }
 }
